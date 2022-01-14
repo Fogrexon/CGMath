@@ -64,10 +64,10 @@ export default [
   {
     input: 'src/index.ts',
     output: {
-      file: 'build/umd/graphim.js',
+      file: 'build/umd/cg-math.js',
       // dir: 'build/umd',
       format: 'umd',
-      name: 'Graphim',
+      name: 'CGMath',
       sourcemap: true,
     },
     plugins: [

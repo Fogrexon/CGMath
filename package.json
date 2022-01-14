@@ -1,7 +1,7 @@
 {
-  "name": "librarytemplate",
+  "name": "cg-math",
   "version": "0.1.0",
-  "description": "",
+  "description": "Math library for 3D Computer Graphics",
   "main": "build/commonjs/src/index.js",
   "module": "build/es/src/index.js",
   "scripts": {
@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Fogrexon/LibraryTemplate.git"
+    "url": "git+https://github.com/Fogrexon/CGMath.git"
   },
   "author": "Fogrexon",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Fogrexon/LibraryTemplate/issues"
+    "url": "https://github.com/Fogrexon/CGMath/issues"
   },
-  "homepage": "https://github.com/Fogrexon/LibraryTemplate#readme",
+  "homepage": "https://github.com/Fogrexon/CGMath#readme",
   "devDependencies": {
     "@babel/core": "^7.15.0",
     "@babel/preset-env": "^7.15.0",
